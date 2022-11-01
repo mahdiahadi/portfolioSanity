@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+you can visit my portfolio website :
+https://mehdiahadi-portfolio.netlify.app/
 
 In the project directory, you can run:
 
